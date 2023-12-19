@@ -1,13 +1,11 @@
 ### Hi there 👋
 
+### I'm a passionate data analyst/scientist
+
 With 3 years of experience in distribution management and program development, I have developed key skills in communication, marketing, market analysis, and project management. These skills, combined with the technical training acquired during a 9-week Data Science & AI bootcamp at Le Wagon, form a solid foundation for my new orientation in data science.
 
 - 🔭 I’m currently working on Gen AI, playing with Open AI tools. My goal is to make a tool for my lawyer's friend.
-- 😎 I love outdoors, yoga, good wine
-
-
-<h3 align="center">A passionate data analyst/scientist</h3>
-
+- 😎 I love outdoors, yoga and good beers
 - 📫 How to reach me **normandin.andrea@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
